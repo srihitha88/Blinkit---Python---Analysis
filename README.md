@@ -19,7 +19,7 @@ The aim is to extract meaningful patterns and trends from Blinkit's retail datas
 ## 🛠️ Tools & Technologies
 
 - Python 3
-- Jupyter Notebook
+- Google Colab Notebook
 - Pandas
 - Matplotlib
 - Seaborn (optional, if used later)
